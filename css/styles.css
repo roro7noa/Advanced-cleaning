@@ -1,14 +1,26 @@
 body { background-color: #e0f1f1; }
 h3, h1, h2, p  { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
 #p1 {font-size: large;}
-.meres {font-weight: 500; text-align: center;}
-.ores {font-weight: 500;}
-.thl {font-weight: 600; font-size: x-large; position: relative; left: 340px; bottom: 5px;}
+.meres {font-weight: 500; 
+    text-align: center;
+font-size: larger;}
+.ores {font-weight: 500;
+    font-size: larger;}
+.thl {font-weight: 600; 
+    font-size: x-large;
+     position: relative; left: 334px; bottom: 5px;}
 #hr-bottom {border-bottom: 0mm; border-color: black;}
 #hr-top {border-color: green; border-bottom: 0ch;}
-#hrd {position: absolute; top: 390px; left:661px; width: 7%;
+#hr-d {position: absolute; top: 395px; left:661px; width: 7%;
     border-color: black;
     border-width:  5px;
     border-style: none; 
     border-top-style: dotted}
-#thl-ep {position: relative; left: 248px; bottom: 35px;}
+#thl-ep {position: relative; left: 248px; bottom: 50px;}
+#yt {position: relative; left: 400px;}
+#fb {position: relative; left: 350px;}
+#tik-tok {position: relative; left: 295px;}
+#inst {position: relative; left: 250px;}
+#titlos {position: relative; left: 310px;
+     font-size: larger;
+     color: rgb(0, 0, 0); }
