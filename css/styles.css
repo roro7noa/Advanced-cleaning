@@ -6,7 +6,7 @@ h3, h1, h2, p  { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Gran
 font-size: larger;}
 .ores {font-weight: 500;
     font-size: larger;}
-.thl {font-weight: 600; 
+.thl {font-weight: 500; 
     font-size: x-large;
      position: relative; left: 334px; bottom: 5px;}
 #hr-bottom {border-bottom: 0mm; border-color: black;}
