@@ -9,18 +9,17 @@ font-size: larger;}
 .thl {font-weight: 500; 
     font-size: x-large;
      position: relative; left: 334px; bottom: 5px;}
-#hr-bottom {border-bottom: 0mm; border-color: black;}
-#hr-top {border-color: green; border-bottom: 0ch;}
-#hr-d {position: absolute; top: 395px; left:661px; width: 7%;
+ #hr-top {border-color: green; border-bottom: 0ch; position: relative; left: 0px;}
+ #hr-bottom {border-bottom: 0mm; border-color: black;}
+ #hr-d {position: absolute; top: 395px; left:661px; width: 7%;
     border-color: black;
     border-width:  5px;
     border-style: none; 
     border-top-style: dotted}
 #thl-ep {position: relative; left: 248px; bottom: 50px;}
-#yt {position: relative; left: 400px;}
-#fb {position: relative; left: 350px;}
-#tik-tok {position: relative; left: 295px;}
-#inst {position: relative; left: 250px;}
-#titlos {position: relative; left: 310px;
-     font-size: larger;
-     color: rgb(0, 0, 0); }
+#h1-top { text-align: center;}
+#sm {text-align: center;}
+.fa-brands { margin-left: 20px; font-size: 25px; 
+     border: solid; border-radius: 6px; padding: 5px; background-color: black; color: white; }
+     a[href] {color: black; text-decoration: none;}
+     
