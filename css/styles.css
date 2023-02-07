@@ -7,19 +7,19 @@ font-size: larger;}
 .ores {font-weight: 500;
     font-size: larger;}
 .thl {font-weight: 500; 
-    font-size: x-large;
-     position: relative; left: 334px; bottom: 5px;}
- #hr-top {border-color: green; border-bottom: 0ch; position: relative; left: 0px;}
- #hr-bottom {border-bottom: 0mm; border-color: black;}
- #hr-d {position: absolute; top: 395px; left:661px; width: 7%;
-    border-color: black;
-    border-width:  5px;
-    border-style: none; 
-    border-top-style: dotted}
-#thl-ep {position: relative; left: 248px; bottom: 50px;}
+    font-size: x-large; }
+    .span { font-size: 25px; font-weight: bold; margin-right: 230px;}
+   #span1 {padding-left: 30px;}
+    .thl { position: relative; left: 280px; padding-bottom: 45px;}
+    .ores {text-align: right;}
+    #hr-dotted {border-top-style: dotted; border-width: 4px; border-bottom: none;
+                border-left: none; border-right: none; width: 8%; position: relative; top: 5px; }
+#hr-top {border-color: green; border-bottom: 0ch; }
+#hr-bottom {border-bottom: 0mm; border-color: black;}
 #h1-top { text-align: center;}
 #sm {text-align: center;}
 .fa-brands { margin-left: 20px; font-size: 25px; 
      border: solid; border-radius: 6px; padding: 5px; background-color: black; color: white; }
      a[href] {color: black; text-decoration: none;}
-     
+     .fa-solid { font-size: 10px; border: solid; border-radius: 8px; padding: 5px;
+         background-color: black; color: white; position: relative; bottom: 4px;}
