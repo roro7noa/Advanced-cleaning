@@ -6,17 +6,17 @@ h3, h1, h2, p  { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Gran
     text-align: center;
 font-size: larger; }
 .ores {font-weight: 500;
-    font-size: larger;}
+    font-size: larger; text-align: right;}
 .thl {font-weight: 500; 
-    font-size: x-large; }
+    font-size: x-large; list-style-type: none;}
     .span { font-size: 25px; font-weight: bold; margin-right: 230px;}
    #span1 {padding-left: 20px;}
-   .tl-meres {text-align:  center;}
-    .thl { position: inherit; margin-left: 310px; padding-bottom: 45px;}
-    .ores {text-align: right;}
+   .box { float: left;} 
+   #box2 { position: relative; left: 23%;  }
+   #hr-bottom { clear: left;}
     #hr-dotted {border-top-style: dotted; border-width: 4px; border-bottom: none;
                 border-left: none; border-right: none; width: 8%; position: relative; top: 5px; }
-#hr-top {border-color: green; border-bottom: 0ch; }
+#hr-top {border-color: #008000; border-bottom: 0ch; }
 #hr-bottom {border-bottom: 0mm; border-color: black;}
 #h1-top { text-align: center;}
 #sm {text-align: center;}
@@ -25,3 +25,5 @@ font-size: larger; }
      a[href] {color: black; text-decoration: none;}
      .fa-solid { font-size: 10px; border: solid; border-radius: 8px; padding: 5px;
          background-color: black; color: white; position: relative; bottom: 4px;}
+        .nav { text-align: end;  font-size: 20px; background-color: #008000; }
+       
